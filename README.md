@@ -1,4 +1,5 @@
 ## U67724813
+## scroll down on webpage to see all elements
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
